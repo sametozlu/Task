@@ -1,0 +1,9 @@
+Merhaba, öncelikle dönüşünüz için çok teşekkür ediyorum!
+
+Yazmış olduğum kodda jQuery’yi dinamik olarak sayfaya dahil ettim ve sayfa yüklendikten sonra bir carousel (slider) oluşturacak şekilde düzenledim. 
+Carousel içindeki ürünleri localStorage'dan ya da bir JSON kaynağından alarak listeledim. Ürünler arasında sağa sola kaydırma yapabilmek için ok butonları ekledim. 
+Kullanıcılar, her ürünü favorilere ekleyip çıkarabiliyorlar, favoriler de localStorage'da tutuluyor. Ayrıca, mobil uyumluluk ve hover efektleri ile tasarımı 
+daha şık hale getirdim.
+
+Tekrar teşekkür ederim!
+Geri dönüşünüz için sabırsızlıkla bekliyorum...
